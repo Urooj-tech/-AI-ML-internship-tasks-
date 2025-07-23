@@ -36,7 +36,7 @@ To load, inspect, and visualize the **Iris dataset** in order to understand its 
 
 ---
 
-##  Technologies Used
+##  Tools Used
 - Python
 - Pandas
 - Seaborn
